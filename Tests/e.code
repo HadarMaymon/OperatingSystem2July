@@ -1,0 +1,4 @@
+variable i
+variable j
+i = 5
+write i + "\n"

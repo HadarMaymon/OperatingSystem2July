@@ -1,0 +1,8 @@
+variable i
+variable j
+i = 7
+yield
+yield
+yield
+yield
+write i + "," + j + "\n"
